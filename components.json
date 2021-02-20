@@ -1177,6 +1177,14 @@
 			"title": "Tcl",
 			"owner": "PeterChaplin"
 		},
+		"tlaplus": {
+			"title": "TLA+",
+			"alias": ["pluscal"],
+			"aliasTitles": {
+				"pluscal": "PlusCal"
+			},
+			"owner": "torao"
+		},
 		"tt2": {
 			"title": "Template Toolkit 2",
 			"require": ["clike", "markup-templating"],

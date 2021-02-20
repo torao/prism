@@ -195,6 +195,8 @@
 		"t4": "T4 Text Templates (C#)",
 		"t4-vb": "T4 Text Templates (VB)",
 		"tap": "TAP",
+		"tlaplus": "TLA+",
+		"pluscal": "PlusCal",
 		"tt2": "Template Toolkit 2",
 		"toml": "TOML",
 		"trig": "TriG",

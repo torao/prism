@@ -221,6 +221,7 @@
 		"sln": "solution-file",
 		"rq": "sparql",
 		"t4": "t4-cs",
+		"pluscal": "tlaplus",
 		"trig": "turtle",
 		"ts": "typescript",
 		"tsconfig": "typoscript",
